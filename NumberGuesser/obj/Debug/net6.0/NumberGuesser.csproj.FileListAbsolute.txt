@@ -1,0 +1,15 @@
+C:\Users\jswar\OneDrive\Projects\NumberGuesser\bin\Debug\net6.0\NumberGuesser.exe
+C:\Users\jswar\OneDrive\Projects\NumberGuesser\bin\Debug\net6.0\NumberGuesser.deps.json
+C:\Users\jswar\OneDrive\Projects\NumberGuesser\bin\Debug\net6.0\NumberGuesser.runtimeconfig.json
+C:\Users\jswar\OneDrive\Projects\NumberGuesser\bin\Debug\net6.0\NumberGuesser.dll
+C:\Users\jswar\OneDrive\Projects\NumberGuesser\bin\Debug\net6.0\NumberGuesser.pdb
+C:\Users\jswar\OneDrive\Projects\NumberGuesser\obj\Debug\net6.0\NumberGuesser.csproj.AssemblyReference.cache
+C:\Users\jswar\OneDrive\Projects\NumberGuesser\obj\Debug\net6.0\NumberGuesser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jswar\OneDrive\Projects\NumberGuesser\obj\Debug\net6.0\NumberGuesser.AssemblyInfoInputs.cache
+C:\Users\jswar\OneDrive\Projects\NumberGuesser\obj\Debug\net6.0\NumberGuesser.AssemblyInfo.cs
+C:\Users\jswar\OneDrive\Projects\NumberGuesser\obj\Debug\net6.0\NumberGuesser.csproj.CoreCompileInputs.cache
+C:\Users\jswar\OneDrive\Projects\NumberGuesser\obj\Debug\net6.0\NumberGuesser.dll
+C:\Users\jswar\OneDrive\Projects\NumberGuesser\obj\Debug\net6.0\refint\NumberGuesser.dll
+C:\Users\jswar\OneDrive\Projects\NumberGuesser\obj\Debug\net6.0\NumberGuesser.pdb
+C:\Users\jswar\OneDrive\Projects\NumberGuesser\obj\Debug\net6.0\NumberGuesser.genruntimeconfig.cache
+C:\Users\jswar\OneDrive\Projects\NumberGuesser\obj\Debug\net6.0\ref\NumberGuesser.dll
