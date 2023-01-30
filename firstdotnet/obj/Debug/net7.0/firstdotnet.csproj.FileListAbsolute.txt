@@ -1,0 +1,15 @@
+C:\Users\jswar\OneDrive\Projects\firstdotnet\bin\Debug\net7.0\firstdotnet.exe
+C:\Users\jswar\OneDrive\Projects\firstdotnet\bin\Debug\net7.0\firstdotnet.deps.json
+C:\Users\jswar\OneDrive\Projects\firstdotnet\bin\Debug\net7.0\firstdotnet.runtimeconfig.json
+C:\Users\jswar\OneDrive\Projects\firstdotnet\bin\Debug\net7.0\firstdotnet.dll
+C:\Users\jswar\OneDrive\Projects\firstdotnet\bin\Debug\net7.0\firstdotnet.pdb
+C:\Users\jswar\OneDrive\Projects\firstdotnet\obj\Debug\net7.0\firstdotnet.csproj.AssemblyReference.cache
+C:\Users\jswar\OneDrive\Projects\firstdotnet\obj\Debug\net7.0\firstdotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jswar\OneDrive\Projects\firstdotnet\obj\Debug\net7.0\firstdotnet.AssemblyInfoInputs.cache
+C:\Users\jswar\OneDrive\Projects\firstdotnet\obj\Debug\net7.0\firstdotnet.AssemblyInfo.cs
+C:\Users\jswar\OneDrive\Projects\firstdotnet\obj\Debug\net7.0\firstdotnet.csproj.CoreCompileInputs.cache
+C:\Users\jswar\OneDrive\Projects\firstdotnet\obj\Debug\net7.0\firstdotnet.dll
+C:\Users\jswar\OneDrive\Projects\firstdotnet\obj\Debug\net7.0\refint\firstdotnet.dll
+C:\Users\jswar\OneDrive\Projects\firstdotnet\obj\Debug\net7.0\firstdotnet.pdb
+C:\Users\jswar\OneDrive\Projects\firstdotnet\obj\Debug\net7.0\firstdotnet.genruntimeconfig.cache
+C:\Users\jswar\OneDrive\Projects\firstdotnet\obj\Debug\net7.0\ref\firstdotnet.dll
